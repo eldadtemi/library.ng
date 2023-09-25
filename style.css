@@ -207,6 +207,61 @@ nav a:hover {
     margin: 10px 0;
 }
 
+#signup {
+    text-align: center;
+    margin: 40px 0;
+}
+
+#signup h2 {
+    font-size: 2rem;
+}
+
+#signup p {
+    font-size: 1.2rem;
+    margin: 20px 0;
+}
+
+#signup-form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    font-size: 1.1rem;
+    margin-bottom: 5px;
+    text-align: left;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+/* Style the Sign-Up button similar to your other CTA buttons */
+#signup-form button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #ff6600;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#signup-form button:hover {
+    background-color: #ff3300;
+}
+
 /* Style the contact section */
 #contact {
     background-color: #fff;
