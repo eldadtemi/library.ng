@@ -98,7 +98,7 @@ nav a:hover {
 
 /* Style the hero section */
 #hero {
-    background-image: url('hero-image.jpg'); /* Replace with your hero image */
+    background-image: url('hero-background.png'); /* Replace with your hero image */
     background-size: cover;
     background-position: center;
     color: #fff;
